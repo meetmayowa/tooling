@@ -74,3 +74,5 @@ Default web root:
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
 Jenkins Configuration. This is working well.
+
+Working on another Jenkins Project
